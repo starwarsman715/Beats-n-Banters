@@ -43,7 +43,7 @@ The backend is organized in the [`server`](server/server.js) folder, with the ma
 5. The user is redirected and can view the generated playlist in their Spotify account.
 
 ## Useful Links
-- [Demo Video]([https://drive.google.com/file/d/10ZcAo1bhdb4bepdkU_n97LVaLUDqB9Lx/view?usp=sharing](https://drive.google.com/file/d/10ZcAo1bhdb4bepdkU_n97LVaLUDqB9Lx/view?usp=sharing)
+- [Demo Video]([https://drive.google.com/file/d/10ZcAo1bhdb4bepdkU_n97LVaLUDqB9Lx/view?usp=sharing](https://drive.google.com/file/d/10ZcAo1bhdb4bepdkU_n97LVaLUDqB9Lx/view?usp=sharing)))
 
 ## Authors
 This project was carried out by:
